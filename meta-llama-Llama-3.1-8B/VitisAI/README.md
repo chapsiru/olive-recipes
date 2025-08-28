@@ -51,9 +51,9 @@ Follow the above setup instructions, then run the below command to generate the 
 
 ```bash
 # Meta-Llama-3.1-8B
-olive run --config Meta-Llama-3.1-8B_quark_vitisai_llm.json
+olive run --config Llama-3.1-8B_quark_vitisai_llm.json
 ```
 
-✅ Optimized model saved in: `models/Meta-Llama-3.1-8B-vai/`
+✅ Optimized model saved in: `models/Llama-3.1-8B-vai/`
 
 > **Note:** Output model is saved in `output_dir` mentioned in the json files.
